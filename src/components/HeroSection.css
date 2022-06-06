@@ -19,7 +19,7 @@ video {
   }
   
   .hero-container > h1 {
-    color: #fff;
+    color: rgb(255, 255, 255);
     font-size: 100px;
     margin-top: -100px;
   }
@@ -37,10 +37,10 @@ video {
   }
   
   .hero-btns .btn {
-    margin: 6px;
+    margin: 10px;
   }
   
-  .fa-play-circle {
+  .fa-location-dot {
     margin-left: 4px;
   }
   

@@ -9,8 +9,8 @@ function HeroSection() {
   return (
     <div className='hero-container'>
         {/* <video src='../../public/videos/video-1.mp4' autoPlay loop muted /> */}
-        <h1> Hi Im Kieran Rollins </h1>
-        <p>Im a Structural Engineer</p>
+        <h1> Hi. I'm Kieran. </h1>
+        <p>I'm a Structural Engineer. </p>
         <div className="her-btns"> 
             <Button 
             className='btns' 
@@ -24,7 +24,7 @@ function HeroSection() {
             buttonStyle='btn--primary'
             buttonSize='btn--large'
             >
-                MAP <i className= 'far fa-play-circle' />
+                MAP <i className= 'fa-solid fa-location-dot' />
             </Button>
         </div>
     </div>
