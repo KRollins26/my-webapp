@@ -18,7 +18,7 @@ export const project_data = [
     construction_value: "Confidential",
     coordinates: [49.26125296192977, -122.98166750268652],
     description: "", //update
-    project_website:""
+    project_website:"https://www.portvancouver.com/projects/road-and-rail/burnaby-rail-corridor-upgrades/"
     },
     {name: "Iona Island Wastewater Treatment Plant",
     project_ID: "201",
@@ -31,22 +31,21 @@ export const project_data = [
     construction_value: "$ 10 Billion (CAD)",
     coordinates: [49.21756816342499, -123.20174927113553],
     description: "", //update
-    project_website:"" //update
+    project_website:"http://www.metrovancouver.org/services/liquid-waste/projects-initiatives/iona-island-wwtp-project/Pages/default.aspx"
     },
     {name: "Highway 407 East Extension, Phase 2",
     project_ID: "301",
-    company: "Klohn Crippen Berger",
-    role: "Structural Engineering",
+    company: "BTY Group, Klohn Crippen Berger",
+    role: "Lenders' Technical Advisor, Structural Engineering",
     location: "Durham, ON, Canada",
-    position: "Structural Engineer, Resident Engineer",
+    position: "Project Consultant, Structural Engineer, Resident Engineer",
     asset_class: "Highway & Bridges",
     delivery_model: "Design Build Finance",
     construction_value: "$ 1.16 Billion (CAD)",
     coordinates: [43.9685762276732, -78.77386980910421],
     description: "", //update
-    project_website:"" //update
+    project_website:"https://407eastphase2.ca/"
     },
-    
     {name: "Highway 4, Kennedy Lake Hill Safety Improvements",
     project_ID: "302",
     company: "Klohn Crippen Berger",
@@ -58,7 +57,7 @@ export const project_data = [
     construction_value: "$ 54 Million (CAD)",
     coordinates: [49.0728066595944, -125.46806599925966],
     description: "", //update
-    project_website:"" //update
+    project_website:"https://www2.gov.bc.ca/gov/content/transportation/transportation-infrastructure/projects/highway4kennedyhill"
     },
     {name: "Seymour Falls Dam Seisic Retrofit",
     project_ID: "303",
@@ -110,7 +109,7 @@ export const project_data = [
     construction_value: "$ 1.51 Billion (CAD)",
     coordinates: [4.8867146867557505, 115.08426279247355],
     description: "", //update
-    project_website:"" //update
+    project_website:"https://en.wikipedia.org/wiki/Sultan_Haji_Omar_Ali_Saifuddien_Bridge"
     },
     {name: "Sengkank LNG Terminal",
     project_ID: "307",
@@ -162,7 +161,7 @@ export const project_data = [
     construction_value: "$ 454 Million (CAD)", //update
     coordinates: [49.28721118519398, -123.08898237411229], //update
     description: "", //update
-    project_website:"" //update
+    project_website:"http://parapidbridges.com/projectoverview.html" 
     },
     {name: "Makenzie Alley Fiber Link",
     project_ID: "404",
@@ -188,18 +187,6 @@ export const project_data = [
     coordinates: [49.28721118519398, -123.08898237411229], //update
     description: "" //update
     },
-    {name: "Highway 407 East Extension, Phase 2",
-    project_ID: "406",
-    company: "BTY Group",
-    role: "Lenders' Technical Advisor",
-    location: "Durham, ON, Canada",
-    position: "Project Consultant",
-    asset_class: "Highway & Bridges",
-    delivery_model: "Design Build", //update
-    construction_value: "$ 454 Million (CAD)", //update
-    coordinates: [49.28721118519398, -123.08898237411229], //update
-    description: "" //update
-    },
     {name: "Kicking Horse Canyon Phase 4",
     project_ID: "501",
     company: "Parsons",
@@ -210,7 +197,8 @@ export const project_data = [
     delivery_model: "Design Build",
     construction_value: "$ 600 Million (CAD)",
     coordinates: [51.30505210527812, -116.88447560399182],
-    description: "" //update
+    description: "", //update
+    project_website: "https://www.kickinghorsecanyon.ca/about/project-overview/"
     },
     {name: "Confederation Line Extension Phase 2",
     project_ID: "502",
@@ -219,10 +207,11 @@ export const project_data = [
     location: "Ottawa, ON, Canada",
     position: "Structural Engineer, Design Coordinator",
     asset_class: "Highway & Bridges",
-    delivery_model: "Design Build Finance",
-    construction_value: "$ 550 Million (CAD)",
-    coordinates: [45.402779270158106, -75.71185634839208],
-    description: "" //update
+    delivery_model: "Design Build",
+    construction_value: "$ 4.6 Billion (CAD)",
+    coordinates: [45.41003209562746, -75.72197324999122],
+    description: "", //update
+    project_website: "https://ottawa.ca/en/planning-development-and-construction/major-projects/stage-2-light-rail-transit-project/overview"
     },
     {name: "Pattullo Bridge Replacement",
     project_ID: "503",
@@ -231,10 +220,11 @@ export const project_data = [
     location: "New Westminster, BC, Canada",
     position: "Structural Engineer",
     asset_class: "Highway & Bridges",
-    delivery_model: "Design Build Finance", //update
-    construction_value: "$ 550 Million (CAD)", //update
-    coordinates: [45.402779270158106, -75.71185634839208], //update
-    description: "" //update
+    delivery_model: "Design Build",
+    construction_value: "$ 1.38 Billion (CAD)",
+    coordinates: [49.20680663280105, -122.89138725562809],
+    description: "", //update
+    project_website: "https://www.pattullobridgereplacement.ca/about/projectoverview/"
     },
     {name: "Centerm Expansion",
     project_ID: "601",
